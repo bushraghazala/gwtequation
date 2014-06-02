@@ -1,0 +1,2 @@
+serviceClass: calcequation.client.calculate
+path: A41E5BFCABCB926F6C050AA2B3141690.gwt.rpc
